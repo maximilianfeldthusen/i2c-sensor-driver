@@ -1,4 +1,4 @@
-### i2c-sensor-driver
+# i2c-sensor-driver
 
 ##  License Declaration
 
