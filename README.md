@@ -144,7 +144,7 @@ module_i2c_driver(acme_driver);
 ```c
 MODULE_AUTHOR("Your Name");
 MODULE_DESCRIPTION("ACME Temperature Sensor Driver (hwmon)");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("MIT");
 ```
 - Provides metadata for tools like `modinfo`.
 
