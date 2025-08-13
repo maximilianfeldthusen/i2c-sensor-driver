@@ -6,7 +6,7 @@
 // SPDX-License-Identifier: MIT
 ```
 - Declares the license using the SPDX identifier.
-- Required for kernel contributions; this one uses **GPL v2**.
+- Required for kernel contributions; this one uses **MIT**.
 
 ---
 
